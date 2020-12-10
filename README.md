@@ -1,2 +1,2 @@
 # iEnergy
-My energy monitor
+My energy monitor every morning.
