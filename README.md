@@ -1,2 +1,2 @@
-# iHealthy
-My health monitor
+# iEnergy
+My energy monitor
